@@ -22,3 +22,5 @@ This is possible by setting the registry start key in HKLM\System\CurrentControl
 Currrently, the file is undetected, however a few sentinelone installations I have obsereved had blocked this. Feel free to crypt it.
 
 Credits to https://github.com/benheise for creating https://github.com/benheise/TrustedInstallerToken which this project was based off of.
+
+You will require administrator privileges to run this. After that is done, reboot the system and SentinelOne won't be able to monitor files anymore !!
